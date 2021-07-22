@@ -1,6 +1,6 @@
 # Interval Timer
 
-[![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://yourice.github.io/apps/timer)
+[![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://cheatsnake.github.io/apps/timer)
 
 A simple and convenient pocket timer with settings for the number of rounds, training time and rest. It is convenient to use in daily sports training.
 
